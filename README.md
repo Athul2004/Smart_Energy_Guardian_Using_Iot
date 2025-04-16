@@ -73,11 +73,6 @@ Cut costs. Stay informed. Use energy wisely.
 
 We're not just tracking electricity — we're sparking a movement toward **conscious consumption** and **sustainable living** across Kerala and beyond. 🌍⚙️
 
----
-
-## 📸 Sneak Peek
-
-> *(Add images/screenshots here — web dashboard, device setup, alerts etc.)*
 
 ---
 
