@@ -1,28 +1,99 @@
-🎯 "𝐒𝐦𝐚𝐫𝐭 𝐄𝐧𝐞𝐫𝐠𝐲 𝐆𝐮𝐚𝐫𝐝𝐢𝐚𝐧 𝐮𝐬𝐢𝐧𝐠 𝐈𝐨𝐓"
+# ⚡ Smart Energy Guardian using IoT
 
-⚡ In today’s world, electricity bills are rising rapidly—especially in Kerala. Our solution helps tackle this by enabling users to reduce electricity bills by up to 30% through smart, real-time energy management. 💡
+> 🌍 **Powering smarter homes, industries & communities — one unit at a time.**
 
-🔍 What is Smart Energy Guardian?
- An IoT-based solution that optimizes electricity usage through intelligent monitoring, real-time alerts, and a fully custom-built web dashboard — with no third-party tools involved.
+## 🚀 Overview
 
-🛠️ Key Features:
- 🖥️ Custom IoT Web Dashboard for real-time electricity tracking
- 📊 Slab-based usage calculation: Peak, Off-peak & Normal
- 🔔 Automated Alarms and Alerts:
-🚨 Excess Usage Alert: When usage exceeds 1000W
-⏰ Slab Change Alert: When switching to Peak time
-📅 Daily Usage Alert: When usage exceeds 7 units/day
- 📩 Instant Email Notifications for all alert events
- 🧾 Manual Bill Generator to create and email custom bill estimates
+**Smart Energy Guardian** is an **IoT-based real-time energy monitoring and alerting system** designed to help users **reduce electricity bills by up to 30%**, especially during costly **KSEB peak hours** in Kerala.  
+From **real-time slab-based tracking** to **automated alerts and custom billing**, this project redefines energy awareness — without relying on third-party platforms.
 
-🏠🏭 Suitable for domestic, industrial, and commercial users — helping everyone cut down power costs, especially during expensive KSEB peak hours.
-🤝 Huge shoutout to my amazing teammates:
- Aswin Anil, George Joseph, and Chinmaykrishnan S 👏
- And our guide,
- 🎓 Assistant Professor Neethu Verjisen, for her valuable guidance and support.
+---
 
-🌐 Check out our project details:
- 🔗 https://lnkd.in/graJT8wK
+## 🔍 What is Smart Energy Guardian?
 
-I’m confident this solution can spark real change in electricity consumption habits across Kerala and beyond. ⚙️🌱
+A powerful, end-to-end solution that:
+- 📉 Optimizes electricity usage  
+- 📡 Delivers instant usage alerts  
+- 📊 Visualizes live energy data through a **custom-built web dashboard**  
+- ✉️ Sends real-time email notifications  
+- 🧾 Generates custom bill estimates  
+All from your own ESP32-powered smart meter.
+
+---
+
+## 🛠️ Features
+
+| Feature | Description |
+|--------|-------------|
+| 🖥️ **Custom Web Dashboard** | Real-time display of voltage, current, power, and units |
+| ⏰ **Slab-based Usage Calculation** | Categorizes consumption into **Peak**, **Normal**, and **Off-Peak** times |
+| 🚨 **Excess Usage Alerts** | Triggers when power exceeds **1000W** |
+| ⏱️ **Slab Change Notifications** | Alerts when entering **Peak time (6 PM - 10 PM)** |
+| 📅 **Daily Usage Monitoring** | Alerts if daily units exceed **7 units/day** |
+| 📩 **Email Notifications** | Instant alerts sent directly to your inbox |
+| 🧾 **Manual Bill Generator** | Create and share custom bill estimates via email |
+
+---
+
+## 📦 Hardware Used
+
+- 🔌 **ZMPT101B** – Voltage Sensor  
+- 🔋 **ACS712 (30A)** – Current Sensor  
+- 📟 **16x4 LCD Display**  
+- 📶 **ESP32** – WiFi + Bluetooth Microcontroller  
+- 📡 **SIM800L** – GSM Module for remote messaging  
+- 🔌 **AC Power Supply**  
+- 🧠 **Custom IoT Dashboard** built from scratch (no third-party services!)  
+- ☁️ **MQTT Dashboard** for optional real-time feed
+
+---
+
+## 🏡 Applications
+
+✅ **Domestic Homes**  
+🏭 **Industrial Units**  
+🏢 **Commercial Buildings**  
+
+Cut costs. Stay informed. Use energy wisely.
+
+---
+
+## 👨‍💻 Team Behind the Project
+
+- **Aswin Anil**  
+- **George Joseph**  
+- **Chinmaykrishnan S**
+
+**Guided by:**  
+🎓 *Assistant Professor Neethu Verjisen*
+
+---
+
+## 🌱 The Impact
+
+We're not just tracking electricity — we're sparking a movement toward **conscious consumption** and **sustainable living** across Kerala and beyond. 🌍⚙️
+
+---
+
+## 📸 Sneak Peek
+
+> *(Add images/screenshots here — web dashboard, device setup, alerts etc.)*
+
+---
+
+## 🧠 Future Scope
+
+- 🔋 Integration with solar energy systems  
+- 📲 Mobile app for remote monitoring  
+- 🧠 AI-based consumption prediction  
+- 💬 WhatsApp/Telegram alert support
+
+---
+
+## ⭐️ Give it a Star!
+
+If this project sparks your interest, don’t forget to ⭐️ the repo and share it!
+
+---
+
  
