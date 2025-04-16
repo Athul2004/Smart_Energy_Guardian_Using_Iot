@@ -39,12 +39,9 @@ All from your own ESP32-powered smart meter.
 
 - 🔌 **ZMPT101B** – Voltage Sensor  
 - 🔋 **ACS712 (30A)** – Current Sensor  
-- 📟 **16x4 LCD Display**  
-- 📶 **ESP32** – WiFi + Bluetooth Microcontroller  
-- 📡 **SIM800L** – GSM Module for remote messaging  
+- 📶 **ESP32** – WiFi + Bluetooth Microcontroller   
 - 🔌 **AC Power Supply**  
 - 🧠 **Custom IoT Dashboard** built from scratch (no third-party services!)  
-- ☁️ **MQTT Dashboard** for optional real-time feed
 
 ---
 
@@ -60,7 +57,8 @@ Cut costs. Stay informed. Use energy wisely.
 
 ## 👨‍💻 Team Behind the Project
 
-- **Aswin Anil**  
+- **Aswin Anil**
+- **Athul S**
 - **George Joseph**  
 - **Chinmaykrishnan S**
 
